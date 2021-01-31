@@ -1,0 +1,28 @@
+header{
+background-color: rgba(25,56,37,22);
+}
+header nav ul li{
+    list-style:none;
+display: inline-block;
+margin-left: 10px;
+background-color: rgba(54,120,78,47);
+}
+header nav ul li a{
+    text-decoration:none;
+    color:#eeee;
+}
+header h1{
+    text-align:center;
+    color: #eeee;
+}
+#mainParagraph{
+    color:purple;
+    background-color:rgba(83,184,120,72);
+}
+.paragraphs{
+    background-color: rgb(196, 188, 195);
+    color:brown;
+}
+main h3{
+    color:rgb(197, 59, 128)
+}
